@@ -1,0 +1,11 @@
+# Ignorar arquivos sensíveis
+*.json
+*.env
+
+# Ignorar lixo do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos compilados
+*.bin
+*.hex

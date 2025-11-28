@@ -1,0 +1,39 @@
+body {
+    background: #0f0f0f;
+    color: #00f2ff;
+    font-family: "Orbitron", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background: #131313;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #00f2ff50;
+    text-align: center;
+    width: 350px;
+    border: 1px solid #00f2ff60;
+}
+
+h1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.valor {
+    font-size: 48px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #00ffe7;
+    text-shadow: 0 0 15px #00ffe7;
+}
+
+.atualizando {
+    font-size: 14px;
+    color: #aaa;
+    margin-top: 15px;
+}
